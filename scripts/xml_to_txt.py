@@ -8,7 +8,10 @@ if __name__ == '__main__':
         tree = lxml.etree.parse(doc.path)
         songid = tree.find('//id')
         fname = songid.text
+        year = tree.find('//year-start')
+        year = int(year.text)
         text = tree.find('//text')
-        lyrics = ''.join(text.itertext())
-        with open(str(fname) + '.txt', 'w') as f:
-            f.write(lyrics)
+        if year >= 1550 and year <= 1750:
+            lyrics = ''.join(text.itertext())
+            with open(str(fname) + '.txt', 'w') as f:
+                f.write(lyrics)
