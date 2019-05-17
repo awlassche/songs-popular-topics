@@ -1,5 +1,0 @@
-MacBook-Pro-van-Alie:mallet alielassche$ bin/mallet import-dir --input /Users/alielassche/documents/github/songs-popular-topics/txt-timeset_modern --output modern.mallet --keep-sequence --stoplist-file /Users/alielassche/applications/mallet/stoplists/stoplist_modern.txt
-
-MacBook-Pro-van-Alie:mallet alielassche$ bin/mallet train-topics --input modern.mallet --num-topics 50 --optimize-interval 20  --output-state topic-state.gz --output-topic-keys modern_keys_50.txt --output-doc-topics modern_composition_50.txt
-
-MacBook-Pro-van-Alie:mallet alielassche$ bin/mallet train-topics --input modern.mallet --num-topics 200 --optimize-interval 20  --num-iterations 2000 --output-state topic-state.gz --output-topic-keys modern_keys_200_it_2000.txt --output-doc-topics modern_composition_200_it_2000.txt
