@@ -1,0 +1,28 @@
+
+    
+      
+        <normalised orig="Aertspriester" auto="true">Aartspriester</normalised>, eertijds opgevaren
+        In <normalised orig="'t" auto="true">het</normalised> <normalised orig="hemelsch" auto="true">hemels</normalised> koor, <normalised orig="daer" auto="true">daar</normalised> maght van Engelen
+        <normalised orig="Haer" auto="true">Haar</normalised> <normalised orig="keelen" auto="true">kelen</normalised>, onder fluit en snaren,
+        Met kittelende galmen mengelen;
+        <normalised orig="Daer" auto="true">Daar</normalised> <normalised orig="ghy" auto="true">gij</normalised> den Vader stelt te vrede,
+        Met d'allerheilighste <normalised orig="offerhande" auto="true">offerande</normalised>,
+        En aldoordringenden gebede,
+        En zet u bloed voor <normalised orig="elck" auto="true">elk</normalised> te pande;
+        Verlosser, ga om <normalised orig="hoogh" auto="true">hoog</normalised> te <normalised orig="raede" auto="true">rade</normalised>.
+        Verlos <normalised orig="dees" auto="true">des</normalised> <normalised orig="Maeghden" auto="true">Maagden</normalised> uit genade.
+      
+      
+        <normalised orig="Ghy" auto="true">Gij</normalised> weet hoe u die hitte rooste,
+        Toen d'Engel, van Gods troon gezonden,
+        U, <normalised orig="aen" auto="true">aan</normalised> de Cederbeeck, vertrooste,
+        En balssem goot in zoo veel wonden,
+        <normalised orig="Waer" auto="true">Waar</normalised> van <normalised orig="ghy" auto="true">gij</normalised> ree de voorsmart voelde,
+        Toen doodzweet vast in bloed verkeerde,
+        Het bloed, dat <normalised orig="'s" auto="true">des</normalised> Afgronds gloed verkoelde,
+        Na dat <normalised orig="ghy" auto="true">gij</normalised> u <normalised orig="aen" auto="true">aan</normalised> <normalised orig="'t" auto="true">het</normalised> Kruis verneêrde.
+        Verlosser, ga om <normalised orig="hoogh" auto="true">hoog</normalised> te <normalised orig="raede" auto="true">rade</normalised>.
+        Verlos <normalised orig="dees" auto="true">des</normalised> <normalised orig="Maeghden" auto="true">Maagden</normalised> uit genade.
+      
+    
+  

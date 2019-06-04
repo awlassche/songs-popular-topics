@@ -1,0 +1,34 @@
+
+    
+      
+        <normalised orig="VErlaet" auto="true">Verlaat</normalised> nu d'Eenzaemhede,
+        Bos Goon, ei toeft niet lang,
+        <normalised orig="Schiet" auto="true">Ziet</normalised> toe met vlugge schreden,
+        Op <normalised orig="'t" auto="true">het</normalised> zoet van <normalised orig="myn" auto="true">mijn</normalised> gezang;
+        Wilt van <normalised orig="myn" auto="true">mijn</normalised> <normalised orig="schoone" auto="true">schone</normalised> zingen,
+        De lust van <normalised orig="myne" auto="true">mijne</normalised> <normalised orig="jeugt" auto="true">jeugd</normalised>;
+        <normalised orig="Maekt" auto="true">Maakt</normalised> zelfs de Hemelingen,
+        Jalours van <normalised orig="myn" auto="true">mijn</normalised> geneugt.
+      
+      
+        <normalised orig="Gy" auto="true">Gij</normalised> Flora <normalised orig="waert" auto="true">waart</normalised> te roemen!
+        Neemt uwe Glans weer <normalised orig="aen" auto="true">aan</normalised>,
+        Ziert u <normalised orig="nogmaels" auto="true">nogmaals</normalised> met Bloemen,
+        Zoo ze in de Lente <normalised orig="staen" auto="true">staan</normalised>,
+        Begeeft u met Pomone,
+        Tot <normalised orig="Ziering" auto="true">Siering</normalised> van <normalised orig="dees" auto="true">des</normalised> <normalised orig="oort" auto="true">oord</normalised>,
+        Wild dezen Herfst bekrone,
+        Dat <normalised orig="hy" auto="true">hij</normalised> elk een bekoort.
+      
+      
+        <normalised orig="Vergaert" auto="true">Vergaard</normalised> <normalised orig="by" auto="true">bij</normalised> d'Eike bomen,
+        <normalised orig="Gy" auto="true">Gij</normalised> Nachtegaels des <normalised orig="Wouts" auto="true">Wouds</normalised>,
+        Stel na <normalised orig="'t" auto="true">het</normalised> geruis der Stromen,
+        Uw keeltjes als van Outs;
+        Wilt van <normalised orig="myn" auto="true">mijn</normalised> <normalised orig="schoone" auto="true">schone</normalised> zingen,
+        De Lust van <normalised orig="myne" auto="true">mijne</normalised> <normalised orig="jeugt" auto="true">jeugd</normalised>;
+        <normalised orig="Maekt" auto="true">Maakt</normalised> zelfs de Hemelingen,
+        Jalours van <normalised orig="myn" auto="true">mijn</normalised> geneugt.
+      
+    
+  

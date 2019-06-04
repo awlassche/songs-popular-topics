@@ -1,0 +1,34 @@
+
+    
+      
+        IESV corona virginum,
+        Quem mater illa concipit,
+        <normalised orig="Quae" auto="true">Qua</normalised> sola virgo parturit,
+        <normalised orig="Haec" auto="true">Haak</normalised> vota clemens accipe.
+      
+      
+        Qui pascis inter lilia,
+        Septus choreis virginum,
+        Sponsas decorans gloria,
+        Sponsisque reddens praemia.
+      
+      
+        Quocumque pergis, virgines
+        Sequuntur, atque laudibus
+        Post te canentes cursitant,
+        Hymnosque dulces personant.
+      
+      
+        Te deprecamur largiùs,
+        Nostris adauge sensibus,
+        Nescire prorsus omnia
+        Corruptionis vulnera.
+      
+      
+        <normalised orig="Laus" auto="true">Lans</normalised>, honor, virtus, gloria,
+        Deo Patri, & Filio,
+        Sancto simul Paraclito,
+        In seculorum secula.
+      
+    
+  

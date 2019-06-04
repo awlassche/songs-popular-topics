@@ -1,0 +1,22 @@
+
+    
+      
+        <normalised orig="Rijck" auto="true">Rijk</normalised> Moeder <normalised orig="Godts" auto="true">Gods</normalised> Marije,
+        Soeter dan <normalised orig="honigh" auto="true">honig</normalised> <normalised orig="raet" auto="true">raad</normalised>.
+        Des Hemels poorte blije,
+        die altijdts open <normalised orig="staet" auto="true">staat</normalised>.
+      
+      
+        <normalised orig="RYck" auto="true">Rik</normalised> Moeder <normalised orig="Godts" auto="true">Gods</normalised> Marije,
+        Soeter dan <normalised orig="honigh" auto="true">honig</normalised> <normalised orig="raet" auto="true">raad</normalised>.
+        Des Hemels poorte blije,
+        die altijdts open <normalised orig="staet" auto="true">staat</normalised>.
+      
+      
+        <normalised orig="Ghy" auto="true">Gij</normalised> zijt <normalised orig="onse" auto="true">onze</normalised> Zee-sterre,
+        Van <normalised orig="dese" auto="true">deze</normalised> <normalised orig="wereldt" auto="true">wereld</normalised> <normalised orig="wijdt" auto="true">wijd</normalised>.
+        <normalised orig="Laet" auto="true">Laat</normalised> ons van <normalised orig="by" auto="true">bij</normalised>, en verre,
+        Door u licht zijn <normalised orig="bevrijdt" auto="true">bevrijd</normalised>.
+      
+    
+  

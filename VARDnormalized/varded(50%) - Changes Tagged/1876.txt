@@ -1,0 +1,74 @@
+
+    
+      
+        <normalised orig="GHy" auto="true">Gij</normalised> lustelijcke <normalised orig="Mey" auto="true">Mei</normalised> <normalised orig="comt" auto="true">komt</normalised> voren,
+        hu, hu,
+        Met bloemkens veel wilt <normalised orig="decken" auto="true">dekken</normalised> <normalised orig="t'" auto="true">te</normalised> <normalised orig="coren" auto="true">koren</normalised>,
+        hu, hu,
+        <normalised orig="Daer" auto="true">Daar</normalised> de gelievens heen spantseeren <normalised orig="gaen" auto="true">gaan</normalised>,
+        fa, li, la, la, la, la, la,
+        <normalised orig="Vertoont" auto="true">Vertoond</normalised> u <normalised orig="daer" auto="true">daar</normalised>, en wilt <normalised orig="vermeeren" auto="true">vermeren</normalised> <normalised orig="graen" auto="true">graan</normalised>,
+        fa, li, la, la, la, la, la.
+      
+      
+        De <normalised orig="jonghe" auto="true">jonge</normalised> <normalised orig="spruyten" auto="true">spruiten</normalised> <normalised orig="staen" auto="true">staan</normalised> en <normalised orig="bloeyen" auto="true">bloeien</normalised>,
+        hu, hu,
+        Met <normalised orig="spronghen" auto="true">sprongen</normalised> wilt u <normalised orig="buyten" auto="true">buiten</normalised> spoeyen,
+        hu, hu,
+        Met u lief <normalised orig="gaen" auto="true">gaan</normalised> de velden groen betreen,
+        fa, li, la, la, la, la, la,
+        Tot <normalised orig="toonen" auto="true">tonen</normalised> u als helden <normalised orig="in't" auto="true">in het</normalised> <normalised orig="ghemeen" auto="true">gemeen</normalised>,
+        fa, li, la, la, la, la, la.
+      
+      
+        <normalised orig="Maeck" auto="true">Maak</normalised> u <normalised orig="vry" auto="true">vrij</normalised> <normalised orig="vaerdich" auto="true">vaardig</normalised> <normalised orig="ghy" auto="true">gij</normalised> <normalised orig="ghelieven" auto="true">gelieven</normalised>,
+        hu, hu,
+        <normalised orig="Smaeckt" auto="true">Smaakt</normalised> nu hoe <normalised orig="aerdich" auto="true">aardig</normalised> <normalised orig="sy" auto="true">zij</normalised> <normalised orig="gherieven" auto="true">gerieven</normalised>,
+        hu, hu,
+        <normalised orig="Int" auto="true">In het</normalised> groene <normalised orig="pleyn" auto="true">plein</normalised> u minnaers wilt ontlaen
+        fa, li, la, la, la, la, la,
+        <normalised orig="Haer" auto="true">Haar</normalised> liefde <normalised orig="reyn" auto="true">rein</normalised> wilt immers wel ontfaen,
+        fa, li, la, la, la, la, la.
+      
+      
+        Het <normalised orig="soet" auto="true">zoet</normalised> <normalised orig="gheluyt" auto="true">geluid</normalised> <normalised orig="laet" auto="true">laat</normalised> dan krioelen,
+        hu, hu,
+        Met <normalised orig="Luyt" auto="true">Luid</normalised>, Bandooren, en Fioellen,
+        hu, hu,
+        Bedrijft geneucht in <normalised orig="desen" auto="true">dezen</normalised> <normalised orig="Lenten" auto="true">Lenden</normalised> <normalised orig="tijdt" auto="true">tijd</normalised>,
+        fa, li, la, la, la, la, la,
+        Verstijft u <normalised orig="vreucht" auto="true">vreugd</normalised> u <normalised orig="tijdt" auto="true">tijd</normalised> <normalised orig="by" auto="true">bij</normalised> enten vlijt,
+        fa, li, la, la, la, la, la.
+      
+      
+        <normalised orig="Ghy" auto="true">Gij</normalised> jachten <normalised orig="laet" auto="true">laat</normalised> u <normalised orig="vlagghen" auto="true">vlaggen</normalised> weyen,
+        hu, hu,
+        Met klachten <normalised orig="gaet" auto="true">gaat</normalised> dan u lief <normalised orig="vleyen" auto="true">vleien</normalised>,
+        hu, hu,
+        V <normalised orig="seylen" auto="true">zeilen</normalised> niet te <normalised orig="hooghe" auto="true">hoge</normalised> stellen wilt,
+        fa, li, la, la, la, la, la,
+        <normalised orig="Maer" auto="true">Maar</normalised> <normalised orig="peylen" auto="true">peilen</normalised> na de <normalised orig="drooghe" auto="true">droge</normalised> snellen stilt,
+        fa, li, la, la, la, la, la.
+      
+      
+        <normalised orig="'T" auto="true">Het</normalised> <normalised orig="ghedierte" auto="true">gedierte</normalised> kleen <normalised orig="siet" auto="true">ziet</normalised> men <normalised orig="vermeeren" auto="true">vermeren</normalised>,
+        hu, hu,
+        <normalised orig="Ick" auto="true">Ik</normalised> stier u heen van <normalised orig="haer" auto="true">haar</normalised> te <normalised orig="leeren" auto="true">leren</normalised>,
+        hu, hu,
+        Het weyghren nu met krachte van u smijt,
+        fa, li, la, la, la, la, la,
+        <normalised orig="Laet" auto="true">Laat</normalised> steyghren die met klachte u <normalised orig="seer" auto="true">zeer</normalised> vrijt,
+        fa, li, la, la, la, la, la.
+      
+      
+        <normalised orig="Ghy" auto="true">Gij</normalised> Velt-Goddinnen <normalised orig="laet" auto="true">laat</normalised> u raden,
+        hu, hu,
+        Vertelt <normalised orig="uyt" auto="true">uit</normalised> minnen u liefs daden,
+        hu, hu,
+        <normalised orig="Naer" auto="true">Naar</normalised> lopen wilt met gunste <normalised orig="goet" auto="true">goed</normalised> ontfaen,
+        fa, li, la, la, la, la, la,
+        Na hopen wilt met jonste <normalised orig="soet" auto="true">zoet</normalised> <normalised orig="bystaen" auto="true">bijstaan</normalised>,
+        fa, li, la, la, la, la, la.
+      
+    
+  

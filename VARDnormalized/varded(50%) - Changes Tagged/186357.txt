@@ -1,0 +1,20 @@
+
+    
+      
+        Zou men een ongetrouwe beminnen,
+        En die noch bidden die staag met ons lacht?
+        Zo waar men <normalised orig="zekerlyk" auto="true">zekerlijk</normalised> buiten <normalised orig="zyn" auto="true">zijn</normalised> zinnen,
+        Beter op zo een noit weder gedacht.
+        Laat ons die wreede schaamte verwinnen,
+        En hem verachten die ons zo veracht.
+      
+      
+        Zou men een ongetrouwe beminnen?
+        En die noch bidden die steeds met ons lacht?
+        Zo <normalised orig="waer" auto="true">waar</normalised> men zekerlijk buiten <normalised orig="sijn" auto="true">zijn</normalised> zinnen.
+        Beter op zoo een noit weder gedacht:
+        <normalised orig="Laet" auto="true">Laat</normalised> ons die wreede schaamte verwinnen,
+        En hem verachten die ons niet en acht.
+      
+    
+  

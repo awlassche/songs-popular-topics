@@ -1,0 +1,60 @@
+
+    
+      
+        <normalised orig="My" auto="true">Mij</normalised> <normalised orig="dunct" auto="true">dunkt</normalised> dat <normalised orig="my" auto="true">mij</normalised> het <normalised orig="hooft" auto="true">hoofd</normalised> schier scheurt, en aefrecht rijd op stelt
+        En aefrecht tijd op stelt,
+        <normalised orig="Ist" auto="true">Is het</normalised> van <normalised orig="sijn" auto="true">zijn</normalised> <normalised orig="leeve" auto="true">leve</normalised> wel e beurt, ien Kraem-heer <normalised orig="sonder" auto="true">zonder</normalised> <normalised orig="geldt" auto="true">geld</normalised>?
+        Ien Kraem-heer <normalised orig="sonder" auto="true">zonder</normalised> <normalised orig="geldt" auto="true">geld</normalised>,
+        Ien Kraem-heer <normalised orig="sonder" auto="true">zonder</normalised> <normalised orig="geldt" auto="true">geld</normalised>.
+      
+      
+        En dat <normalised orig="my" auto="true">mij</normalised> aldermiest noch plaeght, dat is dat ongse Griet,
+        Dat is dat ongse Griet,
+        Wil trouwe, songder <normalised orig="sy" auto="true">zij</normalised> <normalised orig="'t" auto="true">het</normalised> <normalised orig="my" auto="true">mij</normalised> <normalised orig="vraeght" auto="true">vraagt</normalised>, <normalised orig="Ist" auto="true">Is het</normalised> niet een groot verdriet?
+        <normalised orig="Ist" auto="true">Is het</normalised> niet een groot verdriet?
+        <normalised orig="Ist" auto="true">Is het</normalised> niet een groot verdriet?
+      
+      
+        Het is <normalised orig="so" auto="true">zo</normalised> <normalised orig="huysen" auto="true">huizen</normalised> flucxsen <normalised orig="Meyt" auto="true">Meid</normalised>, men brangt <normalised orig="alsmen" auto="true">als men</normalised> <normalised orig="haer" auto="true">haar</normalised> <normalised orig="siet" auto="true">ziet</normalised>,
+        Men brangt <normalised orig="alsmen" auto="true">als men</normalised> <normalised orig="haer" auto="true">haar</normalised> <normalised orig="siet" auto="true">ziet</normalised>,
+        Dat weet de Kevel-smul <normalised orig="oock" auto="true">ook</normalised> wel, en <normalised orig="daerom" auto="true">daarom</normalised> vrijdt <normalised orig="hy" auto="true">hij</normalised> Griet,
+        En <normalised orig="daerom" auto="true">daarom</normalised> vrijdt <normalised orig="hy" auto="true">hij</normalised> Griet,
+        En <normalised orig="daerom" auto="true">daarom</normalised> vrijdt <normalised orig="hy" auto="true">hij</normalised> Griet,
+      
+      
+        <normalised orig="Hy" auto="true">Hij</normalised> is <normalised orig="so" auto="true">zo</normalised> lompen plompen <normalised orig="Vyl" auto="true">Vijl</normalised>, niet muys-vael, noch niet bongt,
+        Niet muys-vael, noch niet bongt,
+        <normalised orig="Sijn" auto="true">Zijn</normalised> <normalised orig="ooghen" auto="true">ogen</normalised> als het Katte-graen, zijn scheluw in de grongt,
+        Zijn scheluw in de grongt,
+        Zijn scheluw in de grongt,
+      
+      
+        <normalised orig="Hy" auto="true">Hij</normalised> heyt een <normalised orig="voorhooft" auto="true">voorhoofd</normalised> tot <normalised orig="sijn" auto="true">zijn</normalised> <normalised orig="kruyn" auto="true">kruin</normalised>, en hier en <normalised orig="daer" auto="true">daar</normalised> wat <normalised orig="hayrs" auto="true">haars</normalised>,
+        En hier en <normalised orig="daer" auto="true">daar</normalised> wat <normalised orig="hayrs" auto="true">haars</normalised>,
+        <normalised orig="Sijn" auto="true">Zijn</normalised> borstels van <normalised orig="sijn" auto="true">zijn</normalised> Kevel-kin, die <normalised orig="steecken" auto="true">stekken</normalised> als een <normalised orig="Baers" auto="true">Baars</normalised>,
+        Die <normalised orig="steecken" auto="true">stekken</normalised> als een <normalised orig="Baers" auto="true">Baars</normalised>,
+        Die <normalised orig="steecken" auto="true">stekken</normalised> als een <normalised orig="Baers" auto="true">Baars</normalised>,
+      
+      
+        <normalised orig="Seght" auto="true">Zegt</normalised> van mijn vrijer wat je wilt, <normalised orig="hy" auto="true">hij</normalised> heyt <normalised orig="yets" auto="true">iets</normalised> van mijn <normalised orig="sin" auto="true">zin</normalised>,
+        <normalised orig="Hy" auto="true">Hij</normalised> heyt <normalised orig="yets" auto="true">iets</normalised> van mijn <normalised orig="sin" auto="true">zin</normalised>,
+        <normalised orig="Hy" auto="true">Hij</normalised> <normalised orig="draeght" auto="true">draagt</normalised> een <normalised orig="Vuer-roer" auto="true">Vuurroer</normalised> in <normalised orig="sijn" auto="true">zijn</normalised> <normalised orig="sack" auto="true">zak</normalised>,en <normalised orig="daer" auto="true">daar</normalised> is <normalised orig="Bos-kruydt" auto="true">Bos-kruid</normalised> in,
+        En <normalised orig="daer" auto="true">daar</normalised> is <normalised orig="Bos-kruydt" auto="true">Bos-kruid</normalised> in,
+        En <normalised orig="daer" auto="true">daar</normalised> is <normalised orig="Bos-kruydt" auto="true">Bos-kruid</normalised> in,
+      
+      
+        Dat is <normalised orig="soo" auto="true">zo</normalised> euvelijcke kangt, <normalised orig="soo" auto="true">zo</normalised> <normalised orig="lanck" auto="true">lank</normalised>, <normalised orig="soo" auto="true">zo</normalised> rongt, <normalised orig="soo" auto="true">zo</normalised> stijf,
+        <normalised orig="Soo" auto="true">Zo</normalised> langk, <normalised orig="soo" auto="true">zo</normalised> rongt, <normalised orig="soo" auto="true">zo</normalised> stijf,
+        <normalised orig="Hy" auto="true">Hij</normalised> schietter mee, <normalised orig="jae" auto="true">ja</normalised> op een <normalised orig="prick" auto="true">prik</normalised>, <normalised orig="jae" auto="true">ja</normalised> op ien rongde schijf,
+        Iae op ien rongde schijf,
+        Iae op ien rongde schijf,
+      
+      
+        <normalised orig="Siet" auto="true">Ziet</normalised> Vaertje, <normalised orig="nou" auto="true">non</normalised> heb <normalised orig="jy" auto="true">jij</normalised> de reen, <normalised orig="waerom" auto="true">waarom</normalised>, <normalised orig="ick" auto="true">ik</normalised> Krelis min,
+        <normalised orig="Waerom" auto="true">Waarom</normalised> <normalised orig="ick" auto="true">ik</normalised> Krelis min,
+        Ten is mijn om <normalised orig="sijn" auto="true">zijn</normalised> backus niet, <normalised orig="maer" auto="true">maar</normalised> <normalised orig="'t" auto="true">het</normalised> <normalised orig="Vuer-roer" auto="true">Vuurroer</normalised> <normalised orig="maeckt" auto="true">maakt</normalised> de min,
+        <normalised orig="Maer" auto="true">Maar</normalised> <normalised orig="'t" auto="true">het</normalised> <normalised orig="Vuer-roer" auto="true">Vuurroer</normalised> <normalised orig="maeckt" auto="true">maakt</normalised> de min,
+        <normalised orig="Maer" auto="true">Maar</normalised> <normalised orig="'t" auto="true">het</normalised> <normalised orig="Vuer-roer" auto="true">Vuurroer</normalised> <normalised orig="maeckt" auto="true">maakt</normalised> de min.
+      
+    
+  

@@ -1,0 +1,16 @@
+
+    
+      
+        <normalised orig="SPeelt" auto="true">Spelt</normalised> op, <normalised orig="vreughde-snaren" auto="true">vreugde-snaren</normalised>,
+        <normalised orig="Slaet" auto="true">Slaat</normalised> nu op <normalised orig="uw'" auto="true">uwe</normalised> <normalised orig="hooghste" auto="true">hoogste</normalised> toon;
+        Wilt nu openbaren,
+        Dat <normalised orig="ick" auto="true">ik</normalised> nu <normalised orig="aen" auto="true">aan</normalised> d'Amstel woon';
+        Barster nu <normalised orig="uyt" auto="true">uit</normalised> tot een Bruylofts-Liedt,
+        Over het <normalised orig="Huwelijck" auto="true">Huwelijk</normalised> <normalised orig="'t" auto="true">het</normalised> <normalised orig="welck" auto="true">welk</normalised> <normalised orig="geschiedt" auto="true">geschied</normalised>
+        <normalised orig="Tusschen" auto="true">Tussen</normalised> Heer Rombouts, en <normalised orig="'t" auto="true">het</normalised> Reaeltje,
+        <normalised orig="'t" auto="true">het</normalised> Beste staeltje,
+        <normalised orig="Pronck" auto="true">Pronk</normalised> en praaltje,
+        Van dat den Amstel <normalised orig="siet" auto="true">ziet</normalised>.
+      
+    
+  

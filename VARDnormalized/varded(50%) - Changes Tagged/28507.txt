@@ -1,0 +1,14 @@
+
+    
+      
+        <normalised orig="GHy" auto="true">Gij</normalised> Bataviersche Helden,
+        Capiteynen <normalised orig="eerbaer" auto="true">eerbaar</normalised>,
+        Die t'leven publick stelden,
+        Tot Meurs, en <normalised orig="Berck" auto="true">Berk</normalised>, <normalised orig="voorwaer" auto="true">voorwaar</normalised>,
+        Zijt <normalised orig="ghy" auto="true">gij</normalised> <normalised orig="waerdich" auto="true">waardig</normalised> te <normalised orig="croonen" auto="true">kronen</normalised>,
+        Met Laurieren playsant,
+        Die <normalised orig="soo" auto="true">zo</normalised> veel machts <normalised orig="gaet" auto="true">gaat</normalised> <normalised orig="thoonen" auto="true">tonen</normalised>,
+        Voor <normalised orig="volck" auto="true">volk</normalised> <normalised orig="int" auto="true">in het</normalised> Vaders <normalised orig="Lant" auto="true">Land</normalised>.
+      
+    
+  

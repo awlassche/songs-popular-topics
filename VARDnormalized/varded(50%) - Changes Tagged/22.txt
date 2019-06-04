@@ -1,0 +1,12 @@
+
+    
+      
+        <normalised orig="HAer" auto="true">Haar</normalised> heldere keeltje door <normalised orig="singens" auto="true">zingens</normalised> <normalised orig="geluyt" auto="true">geluid</normalised>,
+        <normalised orig="Luydt" auto="true">Luid</normalised> raerder en claerder
+        Als <normalised orig="Cijmbael" auto="true">Cimbaal</normalised> of <normalised orig="fluyt" auto="true">fluit</normalised>,
+        <normalised orig="'t" auto="true">het</normalised> Schijnt <normalised orig="sy" auto="true">zij</normalised> het geberght,
+        Van Helicon terght,
+        Wanneers' <normalised orig="uyt" auto="true">uit</normalised> den borst een Sangrijmpjen <normalised orig="uyt" auto="true">uit</normalised>.
+      
+    
+  

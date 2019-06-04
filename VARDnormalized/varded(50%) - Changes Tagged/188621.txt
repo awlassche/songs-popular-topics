@@ -1,0 +1,10 @@
+
+    
+      
+        <normalised orig="Meysje" auto="true">Meisje</normalised> met je blanke billen
+        Zout <normalised orig="gy" auto="true">gij</normalised> wel een Ratelwagt willen
+        Een Ratelwagt met <normalised orig="zyn" auto="true">zijn</normalised> dikke stok
+        Twaalef uuren slaat de Klok
+      
+    
+  

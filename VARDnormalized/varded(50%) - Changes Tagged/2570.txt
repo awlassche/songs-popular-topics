@@ -1,0 +1,69 @@
+
+    
+      
+        <normalised orig="Ghy" auto="true">Gij</normalised> stroom Goddinnen <normalised orig="gladt" auto="true">glad</normalised>
+        Die met u snellen <normalised orig="vloet" auto="true">vloed</normalised>
+        De Bataviersche <normalised orig="Stadt" auto="true">Stad</normalised>
+        <normalised orig="Maeckt" auto="true">Maakt</normalised> <normalised orig="Rijck" auto="true">Rijk</normalised>, en mild'lijck voet,
+        Wiens Vader de Rijn // met eed'len <normalised orig="Wyn" auto="true">Wijn</normalised> // Wiens Vader de Rijn // met eed'len <normalised orig="Wyn" auto="true">Wijn</normalised>
+        Met syn Garst, met syn Graan
+        Met syn Steen, met syn Staal
+        Met syn Hout, en Metaal
+        Gants de Wal, gants de Waal
+        Bestapelt, en doet <normalised orig="staen" auto="true">staan</normalised>,
+        <normalised orig="Ist" auto="true">Is het</normalised> u om roem, stelt Rutgers boven <normalised orig="aen" auto="true">aan</normalised>.
+      
+      
+        O Eer van t'Vaderlandt
+        <normalised orig="Cieraet" auto="true">Sieraad</normalised> <normalised orig="van't" auto="true">van het</normalised> groot <normalised orig="gheslacht" auto="true">geslacht</normalised>
+        Door wiens begaaft <normalised orig="verstant" auto="true">verstand</normalised>
+        Batavy is vol Pracht,
+        Want Heerlijcker Man // <normalised orig="noyt" auto="true">nooit</normalised> Moeder wan // Want Heerlijcker Man // <normalised orig="noyt" auto="true">nooit</normalised> Moeder wan
+        Voor wiens raat, voor wiens <normalised orig="Gheest" auto="true">Geest</normalised>
+        <normalised orig="Selfs" auto="true">Zelfs</normalised> de <normalised orig="Turck" auto="true">Turk</normalised>, <normalised orig="sels" auto="true">zels</normalised> de Tart
+        <normalised orig="Selfs" auto="true">Zelfs</normalised> de Pers, <normalised orig="selfs" auto="true">zelfs</normalised> de <normalised orig="Parth" auto="true">Part</normalised>
+        <normalised orig="Selfs" auto="true">Zelfs</normalised> de Pool, en Sarmart,
+        De minst en <normalised orig="oock" auto="true">ook</normalised> de meest
+        Vol angst, vol <normalised orig="schrick" auto="true">schrik</normalised>, des Rutgers syn <normalised orig="bevreest" auto="true">bevreesd</normalised>.
+      
+      
+        <normalised orig="Maer" auto="true">Maar</normalised> <normalised orig="ghy" auto="true">gij</normalised> betraent, bedoudt
+        Nu bos Goddinnen <normalised orig="syt" auto="true">zijt</normalised>,
+        Zilvanus in het <normalised orig="Woudt" auto="true">Woud</normalised>,
+        <normalised orig="Wert" auto="true">Werd</normalised> nu syn <normalised orig="vreuchde" auto="true">vreugde</normalised> quyt:
+        Al 'tspringende <normalised orig="goet" auto="true">goed</normalised>, heeft nu geen moet, Al 'tspringende <normalised orig="goet" auto="true">goed</normalised>, heeft nu geen moet,
+        Pan die <normalised orig="sucht" auto="true">zucht</normalised>, Pan die schreyt,
+        Pan die roept, Pan die raast,
+        Pan die <normalised orig="bloet" auto="true">bloed</normalised>, Pan die blaast,
+        Pan verdwynt, Pan verdwaast,
+        De Satyrs is het <normalised orig="leyt" auto="true">leit</normalised>
+        Dat Rutgers <normalised orig="uyt" auto="true">uit</normalised>, <normalised orig="haer" auto="true">haar</normalised> <normalised orig="soet" auto="true">zoet</normalised> <normalised orig="gheselschap" auto="true">gezelschap</normalised> <normalised orig="scheyt" auto="true">scheid</normalised>.
+      
+      
+        <normalised orig="Ghy" auto="true">Gij</normalised> <normalised orig="Gooden" auto="true">Goden</normalised> <normalised orig="vander" auto="true">van der</normalised> Zee
+        <normalised orig="Ghy" auto="true">Gij</normalised> Heylicheytjens <normalised orig="goet" auto="true">goed</normalised>
+        En <normalised orig="ghy" auto="true">gij</normalised> Sirenen mee
+        <normalised orig="Comt" auto="true">Komt</normalised> <normalised orig="singhet" auto="true">zinget</normalised> hem te moet,
+        Komt Hemels gheclanck // <normalised orig="comt" auto="true">komt</normalised> <normalised orig="soeten" auto="true">zoeten</normalised> sanck // Komt Hemels gheclanck // <normalised orig="comt" auto="true">komt</normalised> <normalised orig="soeten" auto="true">zoeten</normalised> sanck
+        <normalised orig="Verdryven" auto="true">Verdrijven</normalised> syn verdriet
+        <normalised orig="Speelt" auto="true">Spelt</normalised> op Lier, <normalised orig="speelt" auto="true">spelt</normalised> op <normalised orig="luyt" auto="true">luid</normalised>
+        <normalised orig="Speelt" auto="true">Spelt</normalised> op Schulp, <normalised orig="speelt" auto="true">spelt</normalised> op <normalised orig="fluyt" auto="true">fluit</normalised>
+        <normalised orig="Speelt" auto="true">Spelt</normalised> om 'tSchip, <normalised orig="speelt" auto="true">spelt</normalised> om <normalised orig="schuyt" auto="true">schuit</normalised>,
+        Een <normalised orig="hooch" auto="true">hoog</normalised>, en God'lijck <normalised orig="Liedt" auto="true">Lied</normalised>
+        Op dat Rutgers gheen ongheneucht gheschiet.
+      
+      
+        <normalised orig="Ick" auto="true">Ik</normalised> <normalised orig="sie" auto="true">zie</normalised> <normalised orig="hy" auto="true">hij</normalised> is ghelandt
+        <normalised orig="Ick" auto="true">Ik</normalised> <normalised orig="sie" auto="true">zie</normalised> hem <normalised orig="moedich" auto="true">moedig</normalised> <normalised orig="gaen" auto="true">gaan</normalised>,
+        Op 'tRijcke Sweetse <normalised orig="strandt" auto="true">strand</normalised>
+        Den <normalised orig="Koningh" auto="true">Koning</normalised> <normalised orig="spreecken" auto="true">spreken</normalised> <normalised orig="aen" auto="true">aan</normalised>,
+        Den <normalised orig="machtighen" auto="true">machtigen</normalised> <normalised orig="Heldt" auto="true">Held</normalised> // den Vorst <normalised orig="van't" auto="true">van het</normalised> <normalised orig="Velt" auto="true">Veld</normalised> // Den <normalised orig="machtighen" auto="true">machtigen</normalised> <normalised orig="Heldt" auto="true">Held</normalised> // den Vorst <normalised orig="van't" auto="true">van het</normalised> <normalised orig="Velt" auto="true">Veld</normalised>
+        <normalised orig="Hooch" auto="true">Hoog</normalised> van hart, <normalised orig="hooch" auto="true">hoog</normalised> van <normalised orig="handt" auto="true">hand</normalised>
+        Schoon van lijf, schoon van leen
+        <normalised orig="Eel" auto="true">El</normalised> van Ziel, <normalised orig="eel" auto="true">el</normalised> van zeen
+        Wijs van <normalised orig="raet" auto="true">raad</normalised>, wijs van reen
+        Nu synd' in ons <normalised orig="verbant" auto="true">verband</normalised>
+        Om <normalised orig="Mosch" auto="true">Mos</normalised> en Pool te <normalised orig="brenghen" auto="true">brengen</normalised> heel tot schandt.
+      
+    
+  

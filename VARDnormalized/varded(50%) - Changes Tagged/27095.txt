@@ -1,0 +1,132 @@
+
+    
+      
+        <normalised orig="Maer" auto="true">Maar</normalised> wie wil <normalised orig="hooren" auto="true">horen</normalised> een Nieu <normalised orig="Liedt" auto="true">Lied</normalised>,
+        <normalised orig="Maer" auto="true">Maar</normalised> wie wil <normalised orig="hooren" auto="true">horen</normalised> een Nieu Liet,
+        Dat Tantwerpen is gheschiet,
+        Foire viliaco,
+        Dat Tantwerpen is gheschiet,
+        Foire Ladron.
+      
+      
+        Al van de Spaensche Rebelleusen,
+        Al <normalised orig="vande" auto="true">van de</normalised> Spaensche Rebelleusen,
+        <normalised orig="Sy" auto="true">Zij</normalised> zijn veel <normalised orig="ergher" auto="true">erger</normalised> dan de <normalised orig="Geusen" auto="true">Geuzen</normalised>,
+        Foire villaco,
+        <normalised orig="Sy" auto="true">Zij</normalised> zijn veel argher dan de <normalised orig="Geusen" auto="true">Geuzen</normalised>,
+        Foire Ladron.
+      
+      
+        <normalised orig="Zy" auto="true">Zij</normalised> <normalised orig="quamen" auto="true">kwamen</normalised> Tantwerpen al ouer de vest
+        <normalised orig="Zy" auto="true">Zij</normalised> <normalised orig="quamen" auto="true">kwamen</normalised> Tantwerpen al ouer de vest
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="seyden" auto="true">zeiden</normalised> twasser ghegheuen ten best
+        Foire villaco,
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="seyden" auto="true">zeiden</normalised> twasser ghegheuen ten best,
+        Foire Ladron.
+      
+      
+        Singnor Daneel de <normalised orig="Casteleyn" auto="true">Kastelein</normalised>,
+        singnor Daneel de <normalised orig="Casteleyn" auto="true">Kastelein</normalised>
+        <normalised orig="Hy" auto="true">Hij</normalised> <normalised orig="dedese" auto="true">dede ze</normalised> vergaren op de <normalised orig="pleyn" auto="true">plein</normalised>,
+        Foire viliaco,
+        <normalised orig="Hy" auto="true">Hij</normalised> <normalised orig="dedese" auto="true">dede ze</normalised> vergaren op die <normalised orig="pleyn" auto="true">plein</normalised>,
+        Foire Ladron.
+      
+      
+        Doe <normalised orig="quam" auto="true">kwam</normalised> de <normalised orig="groote" auto="true">grote</normalised> Commandeur,
+        Doe <normalised orig="quam" auto="true">kwam</normalised> de <normalised orig="groote" auto="true">grote</normalised> Commandeur,
+        Schampen most de Gouuerneur
+        Foire viliaco,
+        Schampen moest de Gouuerneur
+        Foire Ladron.
+      
+      
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="seyden" auto="true">zeiden</normalised> de Gouuerneur was een <normalised orig="guyt" auto="true">guit</normalised>
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="seyden" auto="true">zeiden</normalised> de Gouuerneur was een <normalised orig="guyt" auto="true">guit</normalised>,
+        <normalised orig="Sy" auto="true">Zij</normalised> smeten hem zijn <normalised orig="glasen" auto="true">glazen</normalised> wt,
+        Foire viliaco,
+        <normalised orig="Sy" auto="true">Zij</normalised> smeten hem zijn <normalised orig="glasen" auto="true">glazen</normalised> wt
+        Foire Ladron.
+      
+      
+        Voorts liepen <normalised orig="sy" auto="true">zij</normalised> met <normalised orig="ghedruys" auto="true">gedruis</normalised>
+        Voort liepen <normalised orig="sy" auto="true">zij</normalised> met <normalised orig="ghedruys" auto="true">gedruis</normalised>
+        En namen die sleutelen vant <normalised orig="stadthuys" auto="true">stadhuis</normalised>,
+        Foire viliaco,
+        En namen de sleutelen vant atadthuys,
+        Foire Ladron.
+      
+      
+        Doe quamper meer al van die soort
+        Doe quamper meer al van die soort,
+        En namen die sleutelen van die Poort,
+        Foire viliaco,
+        En namen de sleutelen van de Poort,
+        Foire Ladron.
+      
+      
+        <normalised orig="Zy" auto="true">Zij</normalised> lasen <normalised orig="t" auto="true">het</normalised> <normalised orig="Placcaet" auto="true">Plakkaat</normalised> van den eersten termijn
+        <normalised orig="Zy" auto="true">Zij</normalised> lasen <normalised orig="t" auto="true">het</normalised> Placaet vanden eersten termijn
+        Dat <normalised orig="sy" auto="true">zij</normalised> te vollen <normalised orig="betaelt" auto="true">betaalt</normalised> wouden zijn
+        Foire viliaco,
+        Dat <normalised orig="sy" auto="true">zij</normalised> te vollen <normalised orig="betaelt" auto="true">betaalt</normalised> wouden zijn,
+        Foire Ladron.
+      
+      
+        <normalised orig="Sy" auto="true">Zij</normalised> wouden niet eten dan <normalised orig="wittebroot" auto="true">wittebrood</normalised>
+        <normalised orig="Sy" auto="true">Zij</normalised> wouden niet eten dan <normalised orig="wittebroot" auto="true">wittebrood</normalised>
+        Van als <normalised orig="ghebraden" auto="true">gebraden</normalised> <normalised orig="cleyn" auto="true">klein</normalised> en groot
+        Foire viliaco,
+        Van als <normalised orig="ghebraden" auto="true">gebraden</normalised> <normalised orig="cleyn" auto="true">klein</normalised> en groot
+        Foire Ladron.
+      
+      
+        <normalised orig="Sy" auto="true">Zij</normalised> liepen de <normalised orig="rijcke" auto="true">rijke</normalised> lieden op de poorten,
+        <normalised orig="Sy" auto="true">Zij</normalised> liepen de <normalised orig="rijcke" auto="true">rijke</normalised> lieden op de poorten,
+        En <normalised orig="droncken" auto="true">dronken</normalised> den Wijn met <normalised orig="grooten" auto="true">groten</normalised> stoopen,
+        Foire villaco,
+        En <normalised orig="droncken" auto="true">dronken</normalised> den Wijn met <normalised orig="grooten" auto="true">groten</normalised> stoopen,
+        Foire Ladron.
+      
+      
+        <normalised orig="Sy" auto="true">Zij</normalised> riepen Foire met groot geschal,
+        <normalised orig="Sy" auto="true">Zij</normalised> riepen Foire met groot geschal
+        <normalised orig="Daer" auto="true">Daar</normalised> <normalised orig="cregen" auto="true">kregen</normalised> wel <normalised orig="hondert" auto="true">honderd</normalised> vrouwe misval
+        Foire villaco,
+        <normalised orig="Daer" auto="true">Daar</normalised> <normalised orig="cregen" auto="true">kregen</normalised> wel <normalised orig="hondert" auto="true">honderd</normalised> vrouwen misval
+        Foire Ladron.
+      
+      
+        <normalised orig="Sy" auto="true">Zij</normalised> deden vergaren den <normalised orig="breeden" auto="true">breden</normalised> <normalised orig="Raet" auto="true">Raad</normalised>,
+        <normalised orig="Sy" auto="true">Zij</normalised> deden vergaren den <normalised orig="breeden" auto="true">breden</normalised> <normalised orig="Raet" auto="true">Raad</normalised>,
+        Men schatte de Borghers na <normalised orig="haer" auto="true">haar</normalised> <normalised orig="staet" auto="true">staat</normalised>,
+        Foire viliaco,
+        Men schatte de Borghers na <normalised orig="haer" auto="true">haar</normalised> <normalised orig="staet" auto="true">staat</normalised>,
+        Foire Ladron.
+      
+      
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="maecten" auto="true">maakten</normalised> Allarm nacht ende <normalised orig="dach" auto="true">dag</normalised>,
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="maecten" auto="true">maakten</normalised> Allarm nacht ende <normalised orig="dach" auto="true">dag</normalised>,
+        Tot <normalised orig="datter" auto="true">dat er</normalised> <normalised orig="ghelt" auto="true">geld</normalised> was <normalised orig="opghebracht" auto="true">opgebracht</normalised>,
+        Foire viliaco,
+        Tot dat <normalised orig="haer" auto="true">haar</normalised> <normalised orig="ghelt" auto="true">geld</normalised> was opgebracht
+        Foire Ladron.
+      
+      
+        Het was de Borgers groot <normalised orig="beswaren" auto="true">bezwaren</normalised>
+        Het was de Borgers groot <normalised orig="beswaren" auto="true">bezwaren</normalised>,
+        <normalised orig="Datter" auto="true">Dat er</normalised> gheen Regenten en waren,
+        Foire viliaco
+        <normalised orig="Datter" auto="true">Dat er</normalised> gheen Regenten en waren,
+        Foire Ladron.
+      
+      
+        Die ons dit Liedeken eerstwerf sanck,
+        Die ons dit Liedeken eerstwerf sanck,
+        <normalised orig="Hy" auto="true">Hij</normalised> wil niet <normalised orig="wesen" auto="true">wezen</normalised> in Spangiaerts bedwanck,
+        Foire viliaco,
+        <normalised orig="Hy" auto="true">Hij</normalised> wil niet <normalised orig="wesen" auto="true">wezen</normalised> in Spangiaerts bedwanck
+        Foire Ladron.
+      
+    
+  

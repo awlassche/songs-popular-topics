@@ -1,0 +1,44 @@
+
+    
+      
+        <normalised orig="WY" auto="true">WIJ</normalised> <normalised orig="dancken" auto="true">danken</normalised> den waard,
+        Om dat <normalised orig="hy" auto="true">hij</normalised> ons voet:
+        En dedel <normalised orig="wynghaard" auto="true">wijngaard</normalised>,
+        Die <normalised orig="dees" auto="true">des</normalised> druyfkens zoet,
+        Ons <normalised orig="mildelick" auto="true">mildelijk</normalised> biet,
+        Dit wyntken wilt <normalised orig="drincken" auto="true">drinken</normalised>
+        <normalised orig="Hy" auto="true">Hij</normalised> doet het ons <normalised orig="schincken" auto="true">zinken</normalised>
+        <normalised orig="uyt" auto="true">uit</normalised> Liefde om niet.
+      
+      
+        <normalised orig="Drinckt" auto="true">Drinkt</normalised> al <normalised orig="vry" auto="true">vrij</normalised> <normalised orig="droncken" auto="true">dronken</normalised>
+        Van <normalised orig="dees" auto="true">des</normalised> zoete most
+        <normalised orig="Zy" auto="true">Zij</normalised> <normalised orig="wert" auto="true">werd</normalised> gheschoncken,
+        <normalised orig="Buyten" auto="true">Buiten</normalised> onze kost.
+        En mindert verdriet,
+        Dit wyntken wilt <normalised orig="drincken" auto="true">drinken</normalised>.
+        <normalised orig="Hy" auto="true">Hij</normalised> doet het ons <normalised orig="schincken" auto="true">zinken</normalised>,
+        <normalised orig="uyt" auto="true">uit</normalised> liefde om niet.
+      
+      
+        <normalised orig="Dees" auto="true">Des</normalised> vruchtbare <normalised orig="ranck" auto="true">rank</normalised>
+        Verdrijft ons rouwe
+        Door <normalised orig="lieflicke" auto="true">lieflijke</normalised> <normalised orig="dranck" auto="true">drank</normalised>,
+        En Hemels douwe.
+        Die <normalised orig="hy" auto="true">hij</normalised> in ons <normalised orig="ghiet" auto="true">giet</normalised>
+        Dit wynken wilt <normalised orig="drincken" auto="true">drinken</normalised>.
+        <normalised orig="Hy" auto="true">Hij</normalised> doet het ons <normalised orig="schincken" auto="true">zinken</normalised>.
+        <normalised orig="uyt" auto="true">uit</normalised> Liefden om niet.
+      
+      
+        <normalised orig="Smaackt" auto="true">Smaakt</normalised> <normalised orig="prince" auto="true">prinse</normalised> <normalised orig="dees" auto="true">des</normalised> <normalised orig="wyn" auto="true">wijn</normalised>
+        In reynder borste
+        <normalised orig="Zy" auto="true">Zij</normalised> doet <normalised orig="vrolick" auto="true">vrolijk</normalised> <normalised orig="zyn" auto="true">zijn</normalised>
+        En bluscht den dorste
+        Met Hemels bediet
+        Dit wynken wilt <normalised orig="drincken" auto="true">drinken</normalised>.
+        <normalised orig="Hy" auto="true">Hij</normalised> doet het ons <normalised orig="schincken" auto="true">zinken</normalised>,
+        <normalised orig="uyt" auto="true">uit</normalised> liefden om niet.
+      
+    
+  

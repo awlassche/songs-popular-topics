@@ -1,0 +1,15 @@
+
+    
+      
+        <normalised orig="Myn" auto="true">Mijn</normalised> alderliefste Herderin
+        <normalised orig="Gy" auto="true">Gij</normalised> <normalised orig="zyt" auto="true">zijt</normalised> alleen, die ik bemin:
+        En buiten u is 'er geen,
+        Die ik zo opregtelyk meen.
+        Ik weet'er van Kloris nog Amarant.
+        Die zaken die bennen al aan een kant.
+        'k Min u alleen
+        En anders geen:
+        Al zogt ik <normalised orig="door't" auto="true">door het</normalised> <normalised orig="gantsche" auto="true">gantse</normalised> Land.
+      
+    
+  

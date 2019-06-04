@@ -1,0 +1,12 @@
+
+    
+      
+        <normalised orig="DAer" auto="true">Daar</normalised> men <normalised orig="aen" auto="true">aan</normalised> <normalised orig="dees" auto="true">des</normalised> Sparens stroompjes,
+        In d’Hout onder d’Eycke boompjes
+        <normalised orig="Singht" auto="true">Zingt</normalised> tot Astens lof en <normalised orig="pronck" auto="true">pronk</normalised>,
+        <normalised orig="Daer" auto="true">Daar</normalised> men <normalised orig="aen" auto="true">aan</normalised> ‘<normalised orig="t" auto="true">het</normalised> Crystalle water
+        Hoort Echoos hel geschater:
+        Lof Warendorp, en Verdonck.
+      
+    
+  

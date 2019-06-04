@@ -1,0 +1,12 @@
+
+    
+      
+        <normalised orig="COmt" auto="true">Komt</normalised> laat ons vermaken met <normalised orig="singhen" auto="true">zingen</normalised> en spelen
+        <normalised orig="Dees" auto="true">Des</normalised> Nieuw'-gehoude de Bruygom en Bruyt.
+        Met lonkjes en dronkjes wat kusjes om delen,
+        <normalised orig="Soo" auto="true">Zo</normalised> dryvet den waker den slaper nyt.
+        Want weldoen ende <normalised orig="vrolyk" auto="true">vrolijk</normalised> <normalised orig="wesen" auto="true">wezen</normalised>
+        Dat <normalised orig="wort" auto="true">wordt</normalised> van Davids-Soon <normalised orig="ghepresen" auto="true">geprezen</normalised>.
+      
+    
+  

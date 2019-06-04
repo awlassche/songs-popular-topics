@@ -1,0 +1,13 @@
+
+    
+      
+        <normalised orig="Wy" auto="true">Wij</normalised> <normalised orig="segghen" auto="true">zeggen</normalised> al <normalised orig="danck" auto="true">dank</normalised> den <normalised orig="Heere" auto="true">Here</normalised> Christo <normalised orig="altijt" auto="true">altijd</normalised>,
+        Die ons met zijnen woorde verlicht heeft,
+        Ende verlost heeft,
+        Door zijn <normalised orig="doot" auto="true">dood</normalised> en <normalised orig="bloet" auto="true">bloed</normalised> van des duiuels macht.
+        Hem willen <normalised orig="wy" auto="true">wij</normalised> alle,
+        Met der <normalised orig="Enghelen" auto="true">Engelen</normalised> gheschalle,
+        <normalised orig="Singhen" auto="true">Zingen</normalised> Lof, <normalised orig="sy" auto="true">zij</normalised> God in der hoochde.
+      
+    
+  

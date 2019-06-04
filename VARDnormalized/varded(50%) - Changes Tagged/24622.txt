@@ -1,0 +1,10 @@
+
+    
+      
+        <normalised orig="Ic" auto="true">Ik</normalised> arm Schaepken <normalised orig="aen" auto="true">aan</normalised> groen <normalised orig="heyde" auto="true">heide</normalised>
+        <normalised orig="waer" auto="true">waar</normalised> <normalised orig="sal" auto="true">zal</normalised> <normalised orig="ick" auto="true">ik</normalised> hene <normalised orig="gaen" auto="true">gaan</normalised>
+        van vrienden en magen moet <normalised orig="ic" auto="true">ik</normalised> scheyde
+        ende alleen op Christum <normalised orig="staen" auto="true">staan</normalised>.
+      
+    
+  

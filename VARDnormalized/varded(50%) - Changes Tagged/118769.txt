@@ -1,0 +1,10 @@
+
+    
+      
+        <normalised orig="Soo" auto="true">Zo</normalised> <normalised orig="eeven" auto="true">even</normalised> <normalised orig="sloegh" auto="true">sloeg</normalised> de <normalised orig="klock" auto="true">klok</normalised> al tien,
+        Men kan niet van den <normalised orig="dagh" auto="true">dag</normalised> meer <normalised orig="sien" auto="true">zien</normalised>:
+        Dus bidt en <normalised orig="smeeckt" auto="true">smeekt</normalised> der lichten Vader,
+        Dat <normalised orig="hy" auto="true">hij</normalised> met Hemels licht u nader.
+      
+    
+  
