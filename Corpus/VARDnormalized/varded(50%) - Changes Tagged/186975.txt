@@ -1,0 +1,15 @@
+
+    
+      
+        <normalised orig="'T" auto="true">Het</normalised> <normalised orig="zy" auto="true">zij</normalised> <normalised orig="wy" auto="true">wij</normalised> klagen, <normalised orig="'t" auto="true">het</normalised> <normalised orig="zy" auto="true">zij</normalised> <normalised orig="wy" auto="true">wij</normalised> treuren
+        Of <normalised orig="verblijt" auto="true">verblijd</normalised> zijn af, en aan:
+        Wat beneden zon en maan
+        Om mag gaan
+        Tot ons lief of leed gebeuren:
+        Hoe het lot dray heen, of weer:
+        <normalised orig="'T" auto="true">Het</normalised> <normalised orig="zy" auto="true">zij</normalised> <normalised orig="wy" auto="true">wij</normalised> zingen, <normalised orig="'t" auto="true">het</normalised> <normalised orig="zy" auto="true">zij</normalised> <normalised orig="wy" auto="true">wij</normalised> treuren,
+        <normalised orig="'T" auto="true">Het</normalised> <normalised orig="zy" auto="true">zij</normalised> <normalised orig="wy" auto="true">wij</normalised> staan, of vallen neer,
+        Gode <normalised orig="zy" auto="true">zij</normalised> <normalised orig="alleenig" auto="true">allenig</normalised> de eer.
+      
+    
+  

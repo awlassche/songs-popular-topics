@@ -1,0 +1,10 @@
+
+    
+      
+        'k <normalised orig="Ioegh" auto="true">Joeg</normalised> <normalised orig="nae" auto="true">na</normalised> een Ieughdich Hert,
+        <normalised orig="'t" auto="true">het</normalised> Geen mijn ontrocken <normalised orig="wert" auto="true">werd</normalised>:
+        'k <normalised orig="Ioegh" auto="true">Joeg</normalised> <normalised orig="nae" auto="true">na</normalised> een hertje dat mijn hert gevangen had,
+        <normalised orig="Maer" auto="true">Maar</normalised> <normalised orig="laes" auto="true">laas</normalised> <normalised orig="ick" auto="true">ik</normalised> vont <normalised orig="haer" auto="true">haar</normalised> niet hoe <normalised orig="seer" auto="true">zeer</normalised> <normalised orig="ick" auto="true">ik</normalised> Cypres bad.
+      
+    
+  

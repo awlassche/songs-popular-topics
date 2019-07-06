@@ -1,0 +1,28 @@
+
+    
+      
+        <normalised orig="CLoris" auto="true">Kloris</normalised>  <normalised orig="mynen" auto="true">mijnen</normalised> <normalised orig="hooghsten" auto="true">hoogsten</normalised> lust,
+        <normalised orig="Ey" auto="true">Ei</normalised> <normalised orig="verlaet" auto="true">verlaat</normalised> u wreede zeden,
+        Wat verstoort <normalised orig="ghy" auto="true">gij</normalised> <normalised orig="myne" auto="true">mijne</normalised> rust
+        <normalised orig="On-gegrondt" auto="true">Ongegrond</normalised> en <normalised orig="teghen" auto="true">tegen</normalised> reden:
+        <normalised orig="Haest" auto="true">Haast</normalised> u, helpt <normalised orig="my" auto="true">mij</normalised> <normalised orig="uyt" auto="true">uit</normalised> den noot,
+        Oft <normalised orig="ghy" auto="true">gij</normalised> <normalised orig="sult" auto="true">zult</normalised> <normalised orig="my" auto="true">mij</normalised> vinden <normalised orig="doot" auto="true">dood</normalised>.
+      
+      
+        Ah! een kusjen is te <normalised orig="zwack" auto="true">zwak</normalised>
+        Om <normalised orig="myn" auto="true">mijn</normalised> herte te <normalised orig="ghenesen" auto="true">genezen</normalised>,
+        <normalised orig="Ick" auto="true">Ik</normalised> en <normalised orig="raeck" auto="true">raak</normalised> niet van dat <normalised orig="pack" auto="true">pak</normalised>,
+        Oft <normalised orig="ghy" auto="true">gij</normalised> moet staegh <normalised orig="myne" auto="true">mijne</normalised> <normalised orig="wesen" auto="true">wezen</normalised>;
+        <normalised orig="Haest" auto="true">Haast</normalised> u, helpt <normalised orig="my" auto="true">mij</normalised> <normalised orig="uyt" auto="true">uit</normalised> den <normalised orig="noodt" auto="true">nood</normalised>,
+        Oft <normalised orig="ghy" auto="true">gij</normalised> <normalised orig="sult" auto="true">zult</normalised> <normalised orig="my" auto="true">mij</normalised> vinden <normalised orig="doodt" auto="true">dood</normalised>.
+      
+      
+        En stelt doch geen schutsel, voor
+        <normalised orig="'t" auto="true">het</normalised> Ghen' den Hemel wilt <normalised orig="ghehengen" auto="true">gehengen</normalised>,
+        Helpt <normalised orig="my" auto="true">mij</normalised> eer <normalised orig="ick" auto="true">ik</normalised> <normalised orig="gantsch" auto="true">gants</normalised> versmoor,
+        Oft <normalised orig="ick" auto="true">ik</normalised> <normalised orig="sal" auto="true">zal</normalised> <normalised orig="aen" auto="true">aan</normalised> <normalised orig="'t" auto="true">het</normalised> vier <normalised orig="verzenghen" auto="true">verzengen</normalised>:
+        <normalised orig="Haest" auto="true">Haast</normalised> u, helpt <normalised orig="my" auto="true">mij</normalised> <normalised orig="uyt" auto="true">uit</normalised> den <normalised orig="noodt" auto="true">nood</normalised>,
+        Oft <normalised orig="ghy" auto="true">gij</normalised> <normalised orig="sult" auto="true">zult</normalised> <normalised orig="my" auto="true">mij</normalised> vinden <normalised orig="doodt" auto="true">dood</normalised>.
+      
+    
+  

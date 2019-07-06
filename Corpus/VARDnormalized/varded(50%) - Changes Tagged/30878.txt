@@ -1,0 +1,10 @@
+
+    
+      
+        <normalised orig="Ick" auto="true">Ik</normalised> truere en <normalised orig="ick" auto="true">ik</normalised> ben van minnen alsoe <normalised orig="zieck" auto="true">ziek</normalised>
+        En <normalised orig="ick" auto="true">ik</normalised> en <normalised orig="cans" auto="true">kans</normalised> <normalised orig="ghenesen" auto="true">genezen</normalised> niet.
+        Schoen lief dat doet <normalised orig="ghij" auto="true">gij</normalised> mij
+        En anders <normalised orig="niemant" auto="true">niemand</normalised> dan <normalised orig="ghij" auto="true">gij</normalised>.
+      
+    
+  

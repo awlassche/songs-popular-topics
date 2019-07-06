@@ -1,0 +1,10 @@
+
+    
+      
+        <normalised orig="Zy" auto="true">Zij</normalised> zal eer Phebus <normalised orig="uyt" auto="true">uit</normalised> de Kimmen
+        Te <normalised orig="voorschyn" auto="true">voorschijn</normalised> komt met <normalised orig="zyn" auto="true">zijn</normalised> levrey
+        Om rondom <normalised orig="'t" auto="true">het</normalised> <normalised orig="aardsche" auto="true">aardse</normalised> dal te klimmen,
+        Hier komen zitten aan <normalised orig="myn" auto="true">mijn</normalised> <normalised orig="zy" auto="true">zij</normalised>.
+      
+    
+  

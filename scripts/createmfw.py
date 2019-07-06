@@ -29,7 +29,7 @@ if __name__ == '__main__':
                 words.extend([w.lower() for w in sentence.split() if not is_punct(w)])
 
     fd = FreqDist(words)
-    mfw = fd.most_common(200)
-    MFW = csv.writer(open('mfw.csv', 'w'))
+    mfw = fd.most_common(150)
+    MFW = csv.writer(open('mfw_original.csv', 'w'))
     for key, count in mfw:
         MFW.writerow([key, count])

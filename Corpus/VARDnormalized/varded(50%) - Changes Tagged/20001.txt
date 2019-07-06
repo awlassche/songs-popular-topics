@@ -1,0 +1,20 @@
+
+    
+      
+        KOm Speelmeysje, wilw’ een reysje
+        Lipjes strelen, niet te grof,
+        Kom mijn poes’le Minne-vleysje
+        <normalised orig="Hey" auto="true">Hei</normalised>! een kusje is <normalised orig="maer" auto="true">maar</normalised> stof,
+        Kusjes, kusjes, <normalised orig="soete" auto="true">zoete</normalised> lieve kusjes,
+        Die <normalised orig="’t" auto="true">het</normalised> niet dient, die veeght het of.
+      
+      
+        Kom Speelmeysje, wilw’ een reysje,
+        <normalised orig="T’Samen" auto="true">tezamen</normalised> <normalised orig="gaen" auto="true">gaan</normalised> in Venus-hof,
+        Kom mijn poes’le Minne-vleysje
+        <normalised orig="Hey" auto="true">Hei</normalised>! een kusje is <normalised orig="maer" auto="true">maar</normalised> stof,
+        Kusjes, kusjes, <normalised orig="soete" auto="true">zoete</normalised> lieve kusjes,
+        Die <normalised orig="’t" auto="true">het</normalised> niet dient, die veeght het of.
+      
+    
+  

@@ -1,0 +1,12 @@
+
+    
+      
+        <normalised orig="GHY" auto="true">GIJ</normalised> <normalised orig="heydenen" auto="true">heidenen</normalised> loeft t'saem den Heer',
+        <normalised orig="Ghy" auto="true">Gij</normalised> <normalised orig="volckeren" auto="true">volkeren</normalised> <normalised orig="bewyst" auto="true">bewijst</normalised> hem eer',
+        Want groot is <normalised orig="sijn" auto="true">zijn</normalised> <normalised orig="ghenaede" auto="true">genade</normalised> <normalised orig="goet" auto="true">goed</normalised>,
+        Ouer ons al in ouervloet,
+        <normalised orig="Bestendigh" auto="true">Bestendig</normalised> is <normalised orig="oock" auto="true">ook</normalised> <normalised orig="sijn" auto="true">zijn</normalised> waerheit,
+        Ouer ons in der eewicheit.
+      
+    
+  

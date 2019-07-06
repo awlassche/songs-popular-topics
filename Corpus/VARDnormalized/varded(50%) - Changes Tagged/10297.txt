@@ -1,0 +1,13 @@
+
+    
+      
+        <normalised orig="Noyt" auto="true">Nooit</normalised> geyle minne // mijn <normalised orig="waerde" auto="true">waarde</normalised> vrouw,
+        <normalised orig="Socht" auto="true">Zocht</normalised> u Philander t'onderstaen:
+        <normalised orig="Maer" auto="true">Maar</normalised> schoon Goddinne // getrouwe trouw
+        En ware Liefde te nemen <normalised orig="aen" auto="true">aan</normalised>,
+        Dies mint Philander,
+        Die <normalised orig="noyt" auto="true">nooit</normalised> geen ander // als Silvia
+        <normalised orig="Sal" auto="true">Zal</normalised> minne // Goddinne geeft <normalised orig="'t" auto="true">het</normalised> woortje Ja.
+      
+    
+  

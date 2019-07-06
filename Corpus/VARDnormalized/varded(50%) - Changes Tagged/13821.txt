@@ -1,0 +1,12 @@
+
+    
+      
+        <normalised orig="LAet" auto="true">Laat</normalised> Romen op <normalised orig="sijn" auto="true">zijn</normalised> Tyber <normalised orig="roomen" auto="true">romen</normalised>,
+        En Amstel op <normalised orig="haer" auto="true">haar</normalised> <normalised orig="Amstel-stroomen" auto="true">Amstel-stromen</normalised>,
+        <normalised orig="Wy" auto="true">Wij</normalised> brommen op ons Sparens Bron:
+        <normalised orig="Daer" auto="true">Daar</normalised> <normalised orig="menigh" auto="true">menig</normalised> <normalised orig="Aer" auto="true">Aar</normalised>, Rivier, en <normalised orig="Beecken" auto="true">Beken</normalised>
+        In komen van de <normalised orig="Duynen" auto="true">Duinen</normalised> <normalised orig="leecken" auto="true">lekken</normalised>,
+        Van ‘<normalised orig="t" auto="true">het</normalised> bracke <normalised orig="Ty" auto="true">Tij</normalised> tot de Meyr-Ton.
+      
+    
+  

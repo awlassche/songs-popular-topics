@@ -1,0 +1,20 @@
+
+    
+      
+        <normalised orig="BY" auto="true">BIJ</normalised> Somersche Dagen,
+        In <normalised orig="Bosschen" auto="true">Bossen</normalised> en Hagen,
+        Zo tragt ik de plagen
+        Der Min te ontvli'en;
+        <normalised orig="BY" auto="true">BIJ</normalised> Somersche Dagen,
+        In <normalised orig="Bosschen" auto="true">Bossen</normalised> en Hagen,
+        Zo tragt ik de plagen
+        Der Min te ontvli'en;
+        En heb ik dan geen Maitresje,
+        Zo kus ik het flesje,
+        En helpt geen glasje zo neem ik 'er tien
+        En zoen ik geen <normalised orig="Meysje" auto="true">Meisje</normalised>,
+        Zo rook in een reysje:
+        <normalised orig="Noyt" auto="true">Nooit</normalised> <normalised orig="sal" auto="true">zal</normalised> iemand <normalised orig="my" auto="true">mij</normalised> <normalised orig="swaarmoedig" auto="true">zwaarmoedig</normalised> zien.
+      
+    
+  

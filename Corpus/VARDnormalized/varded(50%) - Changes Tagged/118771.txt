@@ -1,0 +1,10 @@
+
+    
+      
+        De <normalised orig="klock" auto="true">klok</normalised> heeft twaalf, het is mid-nagt.
+        <normalised orig="Godt" auto="true">God</normalised> houd' nu over ons de wagt,
+        Die nimmermeer en <normalised orig="slaept" auto="true">slaapt</normalised> nog sluimt,
+        <normalised orig="Maer" auto="true">Maar</normalised> <normalised orig="waekt" auto="true">waakt</normalised> door <normalised orig="'s" auto="true">des</normalised> werelds heele ruimt.
+      
+    
+  

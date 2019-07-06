@@ -1,0 +1,10 @@
+
+    
+      
+        <normalised orig="SO" auto="true">ZO</normalised> God de Heer <normalised orig="'t" auto="true">het</normalised> huis niet en <normalised orig="maekt" auto="true">maakt</normalised>,
+        Vergeefs de bouwers werken <normalised orig="daer" auto="true">daar</normalised>,
+        <normalised orig="So" auto="true">Zo</normalised> God niet <normalised orig="self" auto="true">zelf</normalised> neemt in <normalised orig="bewaer" auto="true">bewaar</normalised>
+        De <normalised orig="Stadt" auto="true">Stad</normalised>, vergeefs de wachterwaekt.
+      
+    
+  

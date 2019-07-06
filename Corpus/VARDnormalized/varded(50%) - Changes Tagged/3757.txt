@@ -1,0 +1,20 @@
+
+    
+      
+        NV <normalised orig="laett" auto="true">laat</normalised> <normalised orig="ghy" auto="true">gij</normalised> Heer' oprecht,
+        <normalised orig="Gaen" auto="true">Gaan</normalised> in vred' uwen knecht:
+        <normalised orig="Nae" auto="true">Na</normalised> v' beloft' <normalised orig="ghestaedigh" auto="true">gestadig</normalised>,
+        <normalised orig="Nae" auto="true">Na</normalised> dat <normalised orig="myn" auto="true">mijn</normalised> <normalised orig="ooghen" auto="true">ogen</normalised> <normalised orig="klaer" auto="true">klaar</normalised>,
+        Hebben <normalised orig="ghesien" auto="true">gezien</normalised> <normalised orig="voorwaer" auto="true">voorwaar</normalised>,
+        Vwen <normalised orig="heylandt" auto="true">heiland</normalised> <normalised orig="ghenaedigh" auto="true">genadig</normalised>.
+      
+      
+        Een <normalised orig="saelighmaeker" auto="true">zaligmaker</normalised> <normalised orig="reyn" auto="true">rein</normalised>,
+        Aller <normalised orig="volcken" auto="true">volken</normalised> ghemeyn,
+        Die <normalised orig="aennemen" auto="true">aannemen</normalised> <normalised orig="sijn" auto="true">zijn</normalised> <normalised orig="leere" auto="true">lere</normalised>.
+        Een licht schynende <normalised orig="klaer" auto="true">klaar</normalised>,
+        Den <normalised orig="heydenen" auto="true">heidenen</normalised> <normalised orig="eenpaer" auto="true">eenpaar</normalised>,
+        End <normalised orig="oock" auto="true">ook</normalised> Israels <normalised orig="eere" auto="true">ere</normalised>.
+      
+    
+  

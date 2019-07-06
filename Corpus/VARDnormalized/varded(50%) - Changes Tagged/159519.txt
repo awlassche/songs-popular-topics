@@ -1,0 +1,24 @@
+
+    
+      
+        <normalised orig="ICk" auto="true">Ik</normalised> <normalised orig="leef" auto="true">lef</normalised> van herten blye,
+        De <normalised orig="staet-sucht" auto="true">staat-zucht</normalised> <normalised orig="lagh" auto="true">lag</normalised> <normalised orig="ick" auto="true">ik</normalised> mee,
+        En in mijn Linnen Pije,
+        Ben <normalised orig="ick" auto="true">ik</normalised> gants wel te vree;
+        Mijn <normalised orig="Buyck" auto="true">Buik</normalised> en voelt gheen pijnen
+        Van Spaensch' of Rijnsche Wijnen;
+        Garsten-gort, en <normalised orig="Haveren-bry" auto="true">Haveren-brij</normalised>
+        Voedt <normalised orig="my" auto="true">mij</normalised> meer als leckery.
+      
+      
+        <normalised orig="Maer" auto="true">Maar</normalised> <normalised orig="soud" auto="true">zoudt</normalised> <normalised orig="ick" auto="true">ik</normalised> alle <normalised orig="saecken" auto="true">zaken</normalised>
+        <normalised orig="Aentrecken" auto="true">Aantrekken</normalised> in mijn <normalised orig="Sangh" auto="true">Zang</normalised>,
+        Die <normalised orig="my" auto="true">mij</normalised> <normalised orig="gheluckigh" auto="true">gelukkig</normalised> <normalised orig="maecken" auto="true">maken</normalised>,
+        <normalised orig="Ick" auto="true">Ik</normalised> <normalised orig="songh" auto="true">zong</normalised> <normalised orig="ses" auto="true">zes</normalised> <normalised orig="daghen" auto="true">dagen</normalised> <normalised orig="langh" auto="true">lang</normalised>.
+        Ja licht den <normalised orig="Sondagh" auto="true">Zondag</normalised> mede,
+        Dat <normalised orig="ick" auto="true">ik</normalised> niet geern en dede,
+        Dies singh <normalised orig="ick" auto="true">ik</normalised> tot <normalised orig="besluyt" auto="true">besluit</normalised>,
+        Een <normalised orig="Boeren-staet" auto="true">Boeren-staat</normalised> munt <normalised orig="uyt" auto="true">uit</normalised>.
+      
+    
+  

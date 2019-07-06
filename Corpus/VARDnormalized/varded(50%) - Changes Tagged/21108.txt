@@ -1,0 +1,15 @@
+
+    
+      
+        <normalised orig="Princen" auto="true">Prinsen</normalised>, <normalised orig="by" auto="true">bij</normalised> <normalised orig="naem" auto="true">naam</normalised>, vroom en <normalised orig="bequaem" auto="true">bekwaam</normalised>,
+        Nu <normalised orig="aen" auto="true">aan</normalised> <normalised orig="wy" auto="true">wij</normalised> <normalised orig="wederkeeren" auto="true">wederkeren</normalised>,
+        Hebben <normalised orig="wy" auto="true">wij</normalised> t'saem, al na <normalised orig="'t" auto="true">het</normalised> <normalised orig="betaem" auto="true">betaam</normalised>,
+        <normalised orig="Voldaen" auto="true">Voldaan</normalised> uwer <normalised orig="begeeren" auto="true">begeren</normalised>?
+        <normalised orig="Bruydegom" auto="true">Bruidegom</normalised> en <normalised orig="Bruydt" auto="true">Bruid</normalised>:
+        <normalised orig="Wy" auto="true">Wij</normalised> <normalised orig="dancken" auto="true">danken</normalised> u Gespeelen <normalised orig="goedt" auto="true">goed</normalised>,
+        Die u dit niet <normalised orig="verveelen" auto="true">vervelen</normalised> doet,
+        En zijt ons Feest, geweest,
+        Speelnoots met <normalised orig="eeren" auto="true">eren</normalised>.
+      
+    
+  

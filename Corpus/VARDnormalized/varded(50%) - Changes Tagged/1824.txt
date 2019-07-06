@@ -1,0 +1,26 @@
+
+    
+      
+        <normalised orig="LEnten" auto="true">Lenden</normalised> doet de Aerd’ <normalised orig="ontluycken" auto="true">ontluiken</normalised>,
+        Die de coude VVinter <normalised orig="sluyt" auto="true">sluit</normalised>,
+        Levert bloemen die <normalised orig="soet" auto="true">zoet</normalised> <normalised orig="ruycken" auto="true">ruiken</normalised>,
+        <normalised orig="Deckt" auto="true">Dekt</normalised> de Aerd’ met gras en cruyt;
+        ’Tvogheltje <normalised orig="singht" auto="true">zingt</normalised> overluyt,
+        <normalised orig="Maeckt" auto="true">Maakt</normalised> <normalised orig="sijn" auto="true">zijn</normalised> nestje in de vvay,
+        Of <normalised orig="aen" auto="true">aan</normalised> <normalised orig="tacken" auto="true">takken</normalised> van het <normalised orig="vvoudt" auto="true">woud</normalised>,
+        <normalised orig="Daer" auto="true">Daar</normalised> het hem met <normalised orig="vreucht" auto="true">vreugd</normalised> onthoudt
+        Om in vreen te broen <normalised orig="sijn" auto="true">zijn</normalised> <normalised orig="ey" auto="true">ei</normalised>.
+      
+      
+        <normalised orig="Maer" auto="true">Maar</normalised> de VVinter <normalised orig="comt" auto="true">komt</normalised> op’t leste
+        <normalised orig="Vinnigh" auto="true">Vinnig</normalised> met <normalised orig="haer" auto="true">haar</normalised> <normalised orig="nieuvve" auto="true">nieuwe</normalised> Iaer,
+        En <normalised orig="gheeft" auto="true">geeft</normalised> anders niet ten besten
+        Dan <normalised orig="koudt" auto="true">koud</normalised>, <normalised orig="haghel" auto="true">hagel</normalised>, <normalised orig="vvinden" auto="true">winden</normalised> <normalised orig="swaer" auto="true">zwaar</normalised>,
+        Dat <normalised orig="vvordt" auto="true">wordt</normalised> <normalised orig="d’arme" auto="true">de arme</normalised> <normalised orig="mensch" auto="true">mens</normalised> ghevvaer
+        Die niet <normalised orig="vvel" auto="true">wel</normalised> <normalised orig="sit" auto="true">zit</normalised> in de <normalised orig="vvol" auto="true">wol</normalised>,
+        Noch <normalised orig="versien" auto="true">verzien</normalised> van spijs en <normalised orig="dranck" auto="true">drank</normalised>,
+        Als vvy zijn, dies <normalised orig="Godt" auto="true">God</normalised> <normalised orig="sy" auto="true">zij</normalised> <normalised orig="danck" auto="true">dank</normalised>,
+        Die ons <normalised orig="gheeft" auto="true">geeft</normalised> de <normalised orig="schueren" auto="true">schuren</normalised> vol.
+      
+    
+  

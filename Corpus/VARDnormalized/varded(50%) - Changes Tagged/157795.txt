@@ -1,0 +1,12 @@
+
+    
+      
+        HIer <normalised orig="woonen" auto="true">wonen</normalised> twee <normalised orig="Maeghden" auto="true">Maagden</normalised>,
+        Of'er ymant na <normalised orig="vraeghden" auto="true">vraagden</normalised>,
+        De <normalised orig="laetsten" auto="true">laatsten</normalised> van elven;
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="woonen" auto="true">wonen</normalised> altans,
+        <normalised orig="By" auto="true">Bij</normalised> <normalised orig="gebreck" auto="true">gebrek</normalised> van Mans,
+        <normalised orig="Helaes" auto="true">Helaas</normalised> op <normalised orig="haer" auto="true">haar</normalised> <normalised orig="selven" auto="true">zelven</normalised>.
+      
+    
+  

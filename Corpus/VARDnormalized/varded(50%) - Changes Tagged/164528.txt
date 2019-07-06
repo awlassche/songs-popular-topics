@@ -1,0 +1,43 @@
+
+    
+      
+        <normalised orig="SEght" auto="true">Zegt</normalised> Grietje <normalised orig="waer" auto="true">waar</normalised> heen?
+        Wel Moer dus alleen!
+        <normalised orig="Waer" auto="true">Waar</normalised> gaeje tot Kees <normalised orig="Koeck" auto="true">Koek</normalised>?
+        Hoor <normalised orig="Kijnt" auto="true">Kind</normalised> <normalised orig="ick" auto="true">ik</normalised> wil mee.
+        Wel hoe dus <normalised orig="vroegh" auto="true">vroeg</normalised> ree?
+        Heer knecht je <normalised orig="kroock" auto="true">krook</normalised> mijn <normalised orig="doeck" auto="true">doek</normalised>
+        Neen <normalised orig="'t" auto="true">het</normalised> het noch gien <normalised orig="noodt" auto="true">nood</normalised>
+        <normalised orig="Maer" auto="true">Maar</normalised> wat binje groot
+        Dat lijckt wel <normalised orig="scheeren" auto="true">scheren</normalised> Piet.
+        <normalised orig="Ick" auto="true">Ik</normalised> scheerje, k' scheerje, 'k scheerje niet
+        <normalised orig="Ick" auto="true">Ik</normalised> mine het in errenst Griet.
+      
+      
+        Ja als het is <normalised orig="Vaer" auto="true">Vaar</normalised>
+        <normalised orig="Wy" auto="true">Wij</normalised> kennen men <normalised orig="kaer" auto="true">kaar</normalised>
+        <normalised orig="Ick" auto="true">Ik</normalised> weet wel jou benier.
+        <normalised orig="Waer" auto="true">Waar</normalised> wilje <normalised orig="gaen" auto="true">gaan</normalised> <normalised orig="nou" auto="true">non</normalised>?
+        <normalised orig="Ick" auto="true">Ik</normalised> weet niet <normalised orig="ick" auto="true">ik</normalised> sou
+        Wel licht <normalised orig="gaen" auto="true">gaan</normalised> metje te Bier
+        Tot keesje, of <normalised orig="daer" auto="true">daar</normalised>
+        <normalised orig="Ick" auto="true">Ik</normalised> lest midt jou <normalised orig="waer" auto="true">waar</normalised>.
+        Dat lijckt wel <normalised orig="scheeren" auto="true">scheren</normalised> Piet.
+        <normalised orig="Ick" auto="true">Ik</normalised> scheerje, 'k scheerje, 'k scheerje niet
+        <normalised orig="Ick" auto="true">Ik</normalised> mien het in errenst Griet.
+      
+      
+        <normalised orig="Maer" auto="true">Maar</normalised> of <normalised orig="ick" auto="true">ik</normalised> <normalised orig="gingh" auto="true">ging</normalised> mee
+        Tot Brancken in stee
+        <normalised orig="Daer" auto="true">Daar</normalised> <normalised orig="ick" auto="true">ik</normalised> <normalised orig="laest" auto="true">last</normalised> was midt jou
+        Wat sou het dan zijn?
+        'K wet ickje de Wijn
+        Als water scheynken sou?
+        <normalised orig="Com" auto="true">Kom</normalised> <normalised orig="gaen" auto="true">gaan</normalised> <normalised orig="wy" auto="true">wij</normalised> dan heen.
+        'K binder mee te vreen.
+        Dat lijckt wel <normalised orig="scheeren" auto="true">scheren</normalised> Piet.
+        <normalised orig="Ick" auto="true">Ik</normalised> scheer je, 'k scheerje, 'k scheerje niet
+        <normalised orig="Ick" auto="true">Ik</normalised> mien het in errenst Griet.
+      
+    
+  

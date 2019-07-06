@@ -1,0 +1,28 @@
+
+    
+      
+        IVre plaudunt omnia
+        Caelica clementia;
+        Quia reddit gaudia laetitiae
+        <normalised orig="Iesus" auto="true">Jezus</normalised> Christus nobis natus hodie.
+      
+      
+        Ex Maria genitus,
+        Ope Sancti Spiritus,
+        Risu mutans gemitus, laetitiae
+        <normalised orig="Iesus" auto="true">Jezus</normalised> Christus nobis natus hodie.
+      
+      
+        O faelix puerpera,
+        Cuius suxit vbera,
+        Mira monstrans opera laetitiae
+        <normalised orig="Iesus" auto="true">Jezus</normalised> Christus nobis natus hodie.
+      
+      
+        Pietate solita
+        Soluit Adae debita,
+        In <normalised orig="hac" auto="true">hak</normalised> valle subdita miseriae,
+        <normalised orig="Iesus" auto="true">Jezus</normalised> Christus nobis natus hodie.
+      
+    
+  

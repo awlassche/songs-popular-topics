@@ -1,0 +1,12 @@
+
+    
+      
+        <normalised orig="'t" auto="true">het</normalised> Zoetst, dat iemand heeft vernomen,
+        <normalised orig="d'" auto="true">de</normalised> Aldergoddelykste zaak
+        <normalised orig="'t" auto="true">het</normalised> Aldergrootste zielvermaak
+        Is, dat ymand heeft bekomen
+        Min, die aan <normalised orig="eene" auto="true">ene</normalised> kant,
+        <normalised orig="Soo" auto="true">Zo</normalised> wel als aan <normalised orig="d'ander" auto="true">de ander</normalised> brand.
+      
+    
+  

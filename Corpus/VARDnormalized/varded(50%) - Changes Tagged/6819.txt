@@ -1,0 +1,84 @@
+
+    
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="ist" auto="true">is het</normalised> een soeter <normalised orig="Naem" auto="true">Naam</normalised>,
+        Den roepen <normalised orig="wy" auto="true">wij</normalised> arme Sonders <normalised orig="aen" auto="true">aan</normalised>,
+        Daewr door <normalised orig="wy" auto="true">wij</normalised> genaed erlangen,
+        Om onbser <normalised orig="sonden" auto="true">zonden</normalised> begangen.
+        Genaed, O Heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="ist" auto="true">is het</normalised> een <normalised orig="heyliger" auto="true">heiliger</normalised> <normalised orig="Naem" auto="true">Naam</normalised>,
+        <normalised orig="Ist" auto="true">Is het</normalised> der <normalised orig="sonden" auto="true">zonden</normalised> overmaten gram,
+        <normalised orig="Daerom" auto="true">Daarom</normalised> <normalised orig="Godt" auto="true">God</normalised> <normalised orig="mensch" auto="true">mens</normalised> wou werden,
+        Die <normalised orig="sonde" auto="true">zonde</normalised> delgen op erden,
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="ist" auto="true">is het</normalised> der ware <normalised orig="Naem" auto="true">Naam</normalised>,
+        Geen Luegen voor hem kan <normalised orig="bestaen" auto="true">bestaan</normalised>,
+        <normalised orig="So" auto="true">Zo</normalised> <normalised orig="wy" auto="true">wij</normalised> die <normalised orig="sonden" auto="true">zonden</normalised> mijden,
+        Geen Secten <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="werdt" auto="true">werd</normalised> lijden.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="ist" auto="true">is het</normalised> des levens <normalised orig="Naem" auto="true">Naam</normalised>,
+        Den <normalised orig="doodt" auto="true">dood</normalised>, den <normalised orig="doodt" auto="true">dood</normalised> <normalised orig="hy" auto="true">hij</normalised> kundigt an,
+        Die <normalised orig="Sonde" auto="true">Zonde</normalised> wol <normalised orig="hy" auto="true">hij</normalised> verderven,
+        <normalised orig="Daerom" auto="true">Daarom</normalised> die <normalised orig="doodt" auto="true">dood</normalised> most sterven.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="ist" auto="true">is het</normalised> een hemmelscher <normalised orig="Naem" auto="true">Naam</normalised>,
+        Die <normalised orig="onse" auto="true">onze</normalised> <normalised orig="swackheyt" auto="true">zwakheid</normalised> <normalised orig="aen" auto="true">aan</normalised> <normalised orig="sich" auto="true">zich</normalised> <normalised orig="naem" auto="true">naam</normalised>,
+        <normalised orig="Daer" auto="true">Daar</normalised> onder die hel te versteuren,
+        Die <normalised orig="Siel" auto="true">Ziel</normalised> ten hemmel veuren.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> is der <normalised orig="hoochste" auto="true">hoogste</normalised> <normalised orig="Throon" auto="true">Troon</normalised>,
+        Der lieven <normalised orig="heyligen" auto="true">heiligen</normalised> eewige kroon,
+        Der getal <normalised orig="hy" auto="true">hij</normalised> <normalised orig="altijt" auto="true">altijd</normalised> meeret,
+        Wan <normalised orig="hy" auto="true">hij</normalised> ons <normalised orig="Sonder" auto="true">Zonder</normalised> bekeeret.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="ist" auto="true">is het</normalised> der liefste <normalised orig="Naem" auto="true">Naam</normalised>,
+        Die <normalised orig="int" auto="true">in het</normalised> <normalised orig="herts" auto="true">hertz</normalised> <normalised orig="sal" auto="true">zal</normalised> geprentet <normalised orig="staen" auto="true">staan</normalised>,
+        Den willen <normalised orig="wy" auto="true">wij</normalised> lieven en loven,
+        Solden al <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="vyand" auto="true">vijand</normalised> toven.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="onse" auto="true">onze</normalised> <normalised orig="toeversicht" auto="true">toeverzicht</normalised>,
+        <normalised orig="Verlaet" auto="true">Verlaat</normalised> ons <normalised orig="Sonder" auto="true">Zonder</normalised> en Sonderin nicht,
+        Heer <normalised orig="laet" auto="true">laat</normalised> ons tot u lenden,
+        Helpt <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="aen" auto="true">aan</normalised> <normalised orig="onsen" auto="true">onzen</normalised> ende.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        <normalised orig="Iesus" auto="true">Jezus</normalised> O liefste <normalised orig="Heere" auto="true">Here</normalised>,
+        Om dyner bitteren marter <normalised orig="eere" auto="true">ere</normalised>,
+        <normalised orig="Verleent" auto="true">Verleend</normalised> ons hier ene salighs end,
+        En <normalised orig="daer" auto="true">daar</normalised> een <normalised orig="vrolick" auto="true">vrolijk</normalised> operstent.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+      
+        Eer, lof, prijs en heerligheyt,
+        <normalised orig="Sy" auto="true">Zij</normalised> <normalised orig="Godt" auto="true">God</normalised> der <normalised orig="heyliger" auto="true">heiliger</normalised> Dryvuldigheyt,
+        En <normalised orig="Iesus" auto="true">Jezus</normalised> <normalised orig="Naem" auto="true">Naam</normalised> gebenedyt,
+        Van nu <normalised orig="aen" auto="true">aan</normalised> tot in eewicheyt.
+        Genaed, O heer genaed,
+        Om al <normalised orig="onser" auto="true">onzer</normalised> <normalised orig="sond" auto="true">zond</normalised> en missedaed.
+      
+    
+  

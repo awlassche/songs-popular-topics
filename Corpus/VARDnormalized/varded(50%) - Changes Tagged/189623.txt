@@ -1,0 +1,14 @@
+
+    
+      
+        <normalised orig="MEysje" auto="true">Meisje</normalised>, zoete Sus,
+        Geef een Kusch,
+        <normalised orig="Myn" auto="true">Mijn</normalised> lieve Gekje,
+        Met je Bekje,
+        Of ik Trekje,
+        Weer als Flus,
+        Naar <normalised orig="my" auto="true">mij</normalised> toe,
+        En kusch <normalised orig="my" auto="true">mij</normalised> moe.
+      
+    
+  

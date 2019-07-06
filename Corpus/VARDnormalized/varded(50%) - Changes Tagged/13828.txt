@@ -1,0 +1,12 @@
+
+    
+      
+        <normalised orig="LAet" auto="true">Laat</normalised> Soylus en Momus rotten,
+        Ginneken, spotten,
+        Achtet of een Ezel kreet:
+        Schudt <normalised orig="haer" auto="true">haar</normalised> <normalised orig="by" auto="true">bij</normalised> de Mydas-ooren,
+        Wilt niet <normalised orig="stooren" auto="true">storen</normalised>
+        <normalised orig="Aen" auto="true">Aan</normalised> <normalised orig="haer" auto="true">haar</normalised>, zijt <normalised orig="ghy" auto="true">gij</normalised> een Poëet.
+      
+    
+  

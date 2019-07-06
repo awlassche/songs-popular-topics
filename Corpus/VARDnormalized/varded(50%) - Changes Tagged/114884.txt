@@ -1,0 +1,54 @@
+
+    
+      
+        <normalised orig="MY" auto="true">MIJ</normalised> lust van hier te varen
+        Na een ri, ri, ri, ri <normalised orig="rijcke" auto="true">rijke</normalised> Kust,
+        Da, da <normalised orig="daer" auto="true">daar</normalised> men niet weet van sparen,
+        Ma <normalised orig="maer" auto="true">maar</normalised> <normalised orig="altijt" auto="true">altijd</normalised> eet en <normalised orig="drinck" auto="true">drink</normalised> na lust:
+        <normalised orig="Daer" auto="true">Daar</normalised> wassen <normalised orig="Fruyt" auto="true">Fruit</normalised> en Bommen,
+        Schoon <normalised orig="datse" auto="true">dat ze</normalised> <normalised orig="niemandt" auto="true">niemand</normalised> plant:
+        Wie <normalised orig="wenscht" auto="true">wenst</normalised> dan niet te komen
+        In <normalised orig="'t" auto="true">het</normalised> lie, lie lieve <normalised orig="luyt-" auto="true">luit</normalised> en <normalised orig="lecker-landt" auto="true">lekker-land</normalised>.
+      
+      
+        <normalised orig="Daer" auto="true">Daar</normalised> weetmen van geen <normalised orig="wercken" auto="true">werken</normalised>,
+        De <normalised orig="luy" auto="true">lui</normalised> luyste wordt <normalised orig="daer" auto="true">daar</normalised> meest <normalised orig="ge-eert" auto="true">geëerd</normalised>,
+        Lu, lu, lust u een braden Vercken,
+        Of wat an: anders wat <normalised orig="ghy" auto="true">gij</normalised> begeert,
+        De Waef'len <normalised orig="aen" auto="true">aan</normalised> de <normalised orig="Boomen" auto="true">Bomen</normalised>,
+        Men <normalised orig="grijptse" auto="true">grijpt ze</normalised> met de <normalised orig="handt" auto="true">hand</normalised>:
+        Wie <normalised orig="soeckt" auto="true">zoekt</normalised> dan niet te komen
+        In <normalised orig="'t" auto="true">het</normalised> lie, lie, lieve <normalised orig="luy-" auto="true">lui</normalised> en <normalised orig="lecker-landt" auto="true">lekker-land</normalised>.
+      
+      
+        <normalised orig="Daer" auto="true">Daar</normalised> <normalised orig="loopen" auto="true">lopen</normalised> Hasen, Knynen,
+        Patry, <normalised orig="trysen" auto="true">trijsen</normalised> Hoenders, <normalised orig="Duyven" auto="true">Duiven</normalised> mee,
+        Ge bra, bra, braden <normalised orig="by" auto="true">bij</normalised> dosijnen,
+        Met sa, sa, sa, saus en <normalised orig="broodt" auto="true">brood</normalised> geree;
+        Kunt <normalised orig="ghy" auto="true">gij</normalised> <normalised orig="maer" auto="true">maar</normalised> effen gapen,
+        Het valt u <normalised orig="aen" auto="true">aan</normalised> de <normalised orig="Tant" auto="true">Tand</normalised>:
+        <normalised orig="Gaet" auto="true">Gaat</normalised> voort (en wilt niet slapen)
+        <normalised orig="Nae" auto="true">Na</normalised> <normalised orig="'t" auto="true">het</normalised> lie, lie, lieve <normalised orig="luy-" auto="true">lui</normalised> en <normalised orig="lecker-landt" auto="true">lekker-land</normalised>.
+      
+      
+        De Wijn loopt <normalised orig="uyt" auto="true">uit</normalised> de <normalised orig="Boomen" auto="true">Bomen</normalised>,
+        <normalised orig="'t" auto="true">het</normalised> Wa, wa, water Room en <normalised orig="soete" auto="true">zoete</normalised> <normalised orig="Melck" auto="true">Melk</normalised>;
+        Die ma, ma, <normalised orig="maer" auto="true">maar</normalised> van <normalised orig="Goudt" auto="true">Goud</normalised> wil <normalised orig="droomen" auto="true">dromen</normalised>,
+        <normalised orig="Krijght" auto="true">Krijgt</normalised> geno, no noegh voor hem en <normalised orig="elck" auto="true">elk</normalised>,
+        Damast, Fluweel, en Kleeren,
+        <normalised orig="Grof-greyn" auto="true">Grofgrein</normalised>, en Gouden kant,
+        Men vint al <normalised orig="sijn" auto="true">zijn</normalised> <normalised orig="begeeren" auto="true">begeren</normalised>
+        In <normalised orig="'t" auto="true">het</normalised> lie, lie, lieve <normalised orig="luy-" auto="true">lui</normalised> en <normalised orig="lecker-landt" auto="true">lekker-land</normalised>.
+      
+      
+        Die in dit <normalised orig="Landt" auto="true">Land</normalised> wil komen,
+        Moet hem eer, eer eerst maken <normalised orig="gereet" auto="true">gereed</normalised>,
+        Om vro, vro <normalised orig="vrolijck" auto="true">vrolijk</normalised> <normalised orig="sonder" auto="true">zonder</normalised> <normalised orig="schroomen" auto="true">schromen</normalised>
+        Dat <normalised orig="hy" auto="true">hij</normalised> een be, be <normalised orig="Bergh" auto="true">Berg</normalised> <normalised orig="Bry" auto="true">Brij</normalised> door eet,
+        Drie Mijlen <normalised orig="dich" auto="true">dik</normalised> in <normalised orig="'t" auto="true">het</normalised> <normalised orig="meeten" auto="true">meten</normalised>
+        Van <normalised orig="d'een" auto="true">de een</normalised> tot <normalised orig="d'ander" auto="true">de ander</normalised> kant,
+        Als <normalised orig="hy" auto="true">hij</normalised> die heeft door-eeten,
+        Komt <normalised orig="hy" auto="true">hij</normalised> in <normalised orig="'t" auto="true">het</normalised> lieve <normalised orig="luy-" auto="true">lui</normalised> en <normalised orig="lecker-landt" auto="true">lekker-land</normalised>.
+      
+    
+  
