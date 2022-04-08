@@ -2,17 +2,21 @@ import argparse
 import csv
 import glob
 import os
+import re
+import string
 
 import nltk
 from nltk import FreqDist
 import pandas as pd
-from utils import is_punct
 
 TOKENIZER = nltk.tokenize.word_tokenize
 
+def is_punct(t):
+    return re.match(f'[{string.punctuation}]+$', t) is not None
+
 if __name__ == '__main__':
 
-    os.chdir("/Users/alielassche/documents/github/songs-popular-topics/Corpus/VARDnormalized/varded50")
+    os.chdir("/Users/alielassche/documents/github/songs-popular-topics/Corpus") #pad naar de map waar je txt-documenten staan, beginnend met /Users
     words = []
 
     for doc in glob.glob("*.txt"):
@@ -22,6 +26,6 @@ if __name__ == '__main__':
 
     fd = FreqDist(words)
     mfw = fd.most_common(150)
-    MFW = csv.writer(open('mfw_VARD2.csv', 'w'))
+    MFW = csv.writer(open('mfw.csv', 'w'))
     for key, count in mfw:
         MFW.writerow([key, count])

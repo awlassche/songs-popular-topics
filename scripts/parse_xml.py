@@ -5,6 +5,9 @@ import re
 import lxml.etree
 import nltk
 import pandas as pd
+from utils import is_punct
+
+TOKENIZER = nltk.tokenize.word_tokenize
 
 if __name__ == '__main__':
 
@@ -47,7 +50,13 @@ if __name__ == '__main__':
             d_dict['location'] = 'None'
         if place is not None:
             d_dict['location'] = place.text
+        text = tree.find('//text')
+        chars = ''.join(text.itertext())
+        words = []
+        for sentence in TOKENIZER(chars, language="dutch"):
+            words.extend([w.lower() for w in sentence.split() if not is_punct(w)])
+        d_dict['n_words'] = len(words)
         Rows.append(d_dict)
     
     df = pd.DataFrame(Rows)
-    df.to_csv('songs.csv', sep='\t')
+    df.to_csv('songs_2022.csv', sep='\t')
